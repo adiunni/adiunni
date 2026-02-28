@@ -19,10 +19,7 @@ Visit these links as well
 </tr>
 
 # My favourite projects
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=adiunni&repo=logic_audio-files)](https://github.com/CharieBlastX7/logic_audio-files)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rgab1508&repo=OpenStore)](https://github.com/rgab1508/OpenStore)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rgab1508&repo=ETAMAX-22)](https://github.com/rgab1508/ETAMAX-22)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rgab1508&repo=FACES-21)](https://github.com/rgab1508/FACES-21)
+[![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adiunni)](https://github.com/adiunni/openstore-mp)
 [![Aditya's github activity graph](https://activity-graph.herokuapp.com/graph?username=adiunni&theme=react-dark)](https://github.com/CharieBlastX7/github-readme-activity-graph)
 <br>
 Thanks  
