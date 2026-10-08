@@ -1,18 +1,21 @@
-## Bonjour mes amis
+# Bonjour mes amis 👋🏽
 
-Music, Gym, Badminton and Code. 
+I'm Aditya, a grad student who lives at the intersection of **bass lines, barbell plates, shuttlecocks and stack traces**. 🎧 🏋🏽 🏸 💻
 
-Visit these links as well
-<br>[:baby_chick: My Twitter](https://twitter.com/ad1unn1)
-<br>[:sound: My soundcloud](https://soundcloud.com/user-803509413)
-<br>[:tv: Instagram](https://instagram.com/ad1unn1)
-<br>[:bowtie: My Website](https://adiunni.tech)
-<br>[:envelope: Email](mailto:adiunni@hotmail.com)
+When I'm not shipping code, I'm usually lifting heavy, chasing a smash on the badminton court, or losing track of time with headphones on. Every one of them rewards the same thing: show up, repeat, get a little sharper each day.
 
+## 🔗 Find me around the internet
 
+<p>
+  <a href="https://adiunni.tech">🌐 Website</a> &nbsp;•&nbsp;
+  <a href="https://twitter.com/ad1unn1">🐤 Twitter</a> &nbsp;•&nbsp;
+  <a href="https://soundcloud.com/user-803509413">🔊 SoundCloud</a> &nbsp;•&nbsp;
+  <a href="https://instagram.com/ad1unn1">📺 Instagram</a> &nbsp;•&nbsp;
+  <a href="mailto:adiunni@hotmail.com">✉️ Email</a>
+</p>
 
-<table>
-<tr>
-<td><img src="https://github-readme-streak-stats.herokuapp.com/?user=adiunni&theme=tokyonight" /></td>
-</tr>
-Thanks  
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=adiunni&theme=tokyonight" alt="GitHub streak stats" />
+</p>
+
+Thanks for stopping by, say hi if you've got something fun to build. 🚀
