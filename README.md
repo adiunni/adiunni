@@ -1,21 +1,25 @@
 # Bonjour mes amis 👋🏽
 
-I'm Aditya, a grad student who lives at the intersection of **bass lines, barbell plates, shuttlecocks and stack traces**. 🎧 🏋🏽 🏸 💻
+**MS CS @ Columbia** · building at the edge of **cryptography, quantum, and AI systems**
 
-When I'm not shipping code, I'm usually lifting heavy, chasing a smash on the badminton court, or losing track of time with headphones on. Every one of them rewards the same thing: show up, repeat, get a little sharper each day.
+## 🏗️ Experience in one glance
 
-## 🔗 Find me around the internet
+- **Quantum & AI Intern, Protegrity** (summer 2026): post-quantum crypto readiness tooling + quantum hardware experiments
+- **Product Engineer, TCS** (2023–25): worked on the CAPE / TCS Enterprise Manager ITSM platform
+- **Built YUGMA** at VMentor.ai, an education platform, alongside my undergrad
 
-<p>
-  <a href="https://adiunni.tech">🌐 Website</a> &nbsp;•&nbsp;
-  <a href="https://twitter.com/ad1unn1">🐤 Twitter</a> &nbsp;•&nbsp;
-  <a href="https://soundcloud.com/user-803509413">🔊 SoundCloud</a> &nbsp;•&nbsp;
-  <a href="https://instagram.com/ad1unn1">📺 Instagram</a> &nbsp;•&nbsp;
-  <a href="mailto:adiunni@hotmail.com">✉️ Email</a>
-</p>
+## 🏆 Hackathons
+
+- 🥇 **MyCFO.ai**: AWS Bedrock-powered financial assistant, first prize
+- 🥇 **OpenStore**: FCRIT DEV_A_THON, first place
+- 🥉 **cryptoTSEC**: TSEC Hacks, third place
+
+## 🔗 Find me
+
+[🌐 Website](https://adiunni.tech) · [🐤 Twitter](https://twitter.com/ad1unn1) · [🔊 SoundCloud](https://soundcloud.com/user-803509413) · [📺 Instagram](https://instagram.com/ad1unn1) · [✉️ Email](mailto:adiunni@hotmail.com)
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=adiunni&theme=tokyonight" alt="GitHub streak stats" />
 </p>
 
-Thanks for stopping by, say hi if you've got something fun to build. 🚀
+🎧 Music · 🏋🏽 Gym · 🏸 Badminton, the stuff that keeps the code honest.
